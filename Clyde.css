@@ -1,0 +1,32 @@
+body{
+background-color:gray;
+}
+.calculator{
+color:white;
+font-size: 210%;
+boder-size:100%;	
+}
+input{
+font-size: 160%;
+}
+#theone{
+border-style:solid;
+border-width: 50%;
+margin:0;
+}
+button:hover{
+color: lightblue;
+background-color:gray;
+font-size:120%;
+}
+button{
+font-size:100%;
+}
+.buto{
+padding:0;
+margin:0;
+border-style:solid;
+background-color:black;
+align:center;
+}
+
